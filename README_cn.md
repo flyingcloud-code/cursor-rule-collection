@@ -19,10 +19,10 @@ RIPER 通过五种不同的操作模式提供了一种系统化的软件开发�
 源自 cursor 论坛文章：[我创建了一个名为“RIPER-5 模式”的惊艳模式，大幅修复了 Claude 3.7！](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)
 
 ## RIPER-5 01 版本
-可查看 [RIPER-5 01 规则](RIPER/RIPER-5-01-version.md)
+可查看 **[RIPER-5 01 规则](RIPER/RIPER-5-01-version)**
 
 ## RIPER-5 高级版本
-### [RIPER-5_多维思考_代理执行协议](RIPER/RIPER-5_MULTIDIMENSIONAL_THINKING-AGENT_EXECUTION_PROTOCOL.md)  
+### [RIPER-5_多维思考_代理执行协议](RIPER/RIPER-5_MULTIDIMENSIONAL_THINKING-AGENT_EXECUTION_PROTOCOL)  
 源自 cursor 论坛中的修订版链接：[修订版本](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516/97)
 
 ### 新协议关键特性
