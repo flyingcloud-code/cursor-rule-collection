@@ -18,10 +18,10 @@ Review(R): Validating implementation against plans
 started from cursor forum article [I created an AMAZING MODE called “RIPER-5 Mode” Fixes Claude 3.7 Drastically!](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516)
 
 ## RIPER-5 01 version
-You can check **[RIPER-5 01 rule](RIPER/RIPER-5-01-version)**
+You can check **[RIPER-5 01 rule](RIPER/RIPER-5-01-version.md)**
 
 ## RIPER-5 advanced version
-### [RIPER-5_MULTIDIMENSIONAL_THINKING-AGENT_EXECUTION_PROTOCOL](RIPER/RIPER-5_MULTIDIMENSIONAL_THINKING-AGENT_EXECUTION_PROTOCOL) started from the original link in cursor forum [revised version](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516/97)
+### [RIPER-5_MULTIDIMENSIONAL_THINKING-AGENT_EXECUTION_PROTOCOL](RIPER/RIPER-5_MULTIDIMENSIONAL_THINKING-AGENT_EXECUTION_PROTOCOL.md) started from the original link in cursor forum [revised version](https://forum.cursor.com/t/i-created-an-amazing-mode-called-riper-5-mode-fixes-claude-3-7-drastically/65516/97)
 
 ### New Protocol Key Features
 
